@@ -1,0 +1,32 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:aqua;
+
+}
+.container{
+    width:fit-content;
+    margin: auto;
+    padding:20px;
+    text-align: center;
+}
+
+h1{
+    margin-top: auto;
+    
+}
+#competitionsList{
+    margin-bottom: auto;
+}
+
+#areaList{
+    margin-bottom: auto;
+}
+#matchList{
+    margin-bottom: auto;
+}
+#teamList{
+    margin-bottom: auto;
+}
+#playerList{
+    margin-bottom: auto;
+}
